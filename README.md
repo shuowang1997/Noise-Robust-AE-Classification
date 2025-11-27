@@ -2,4 +2,4 @@ Dataset Download Links: The file AE_noise_classification.zip (which contains the
 链接: https://pan.baidu.com/s/1QUbxQMzVjralUpTLBsVaTA?pwd=1111 提取码: 1111 
 --来自百度网盘超级会员v6的分享
 
-The code for both the denoising and localization networks can be found in the uploaded file AE-noise-localization.ipynb.
+The code for both the denoising and localization networks can be found in the uploaded file AE-noise-classification.ipynb.
