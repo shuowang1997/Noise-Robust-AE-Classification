@@ -1,0 +1,13 @@
+﻿item,value
+Operating system,Windows-10-10.0.19045-SP0
+CPU,"Intel64 Family 6 Model 158 Stepping 12, GenuineIntel"
+Logical CPU cores,16
+System RAM (GB),31.864059448242188
+Python version,3.9.19
+TensorFlow version,2.6.0
+CUDA version,64_112
+cuDNN version,64_8
+TensorFlow GPU devices,/physical_device:GPU:0
+NVIDIA GPU information,"NVIDIA GeForce RTX 4090 D, 24564, 576.02"
+Input signal length,1024
+TensorFlow numerical type,float32

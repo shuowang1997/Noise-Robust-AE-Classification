@@ -1,0 +1,4 @@
+﻿Model/stage,Trainable parameters (M),Model size (MB),GFLOPs/sample,Mean GPU latency (ms),P95 GPU latency (ms),Throughput (samples/s),Peak GPU memory (MB)
+1D U-Net denoiser,26.223,300.42,1.0986,7.2861,7.95,137.25,2595.44
+Three-layer MLP classifier,3.15,36.09,0.0063,0.4332,0.5382,2308.14,145.1
+Complete pipeline (U-Net + MLP),29.373,336.51,1.1049,7.2322,7.5497,138.27,282.98
